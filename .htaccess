@@ -5,4 +5,4 @@ RewriteRule ^(.*)$ index.php/$1 [L]
 
 <ifModule mod_env.c>
 	setEnv CI_ENV development
- </ifModule>
+</ifModule>

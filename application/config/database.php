@@ -306,11 +306,12 @@ switch (ENVIRONMENT) {
 		);
 		break;
 	default:
+
 		$db['default'] = array(
 			'dsn'	=> '',
 			'hostname' => '127.0.0.1',
-			'username' => 'localhost',
-			'password' => '',
+			'username' => 'ppaskaid_sistem-perizinan',
+			'password' => 's_3?Q7U3Qw9W',
 			'database' => 'ppaskaid_sistem-perizinan',
 			'dbdriver' => 'mysqli',
 			'dbprefix' => '',
@@ -332,8 +333,8 @@ switch (ENVIRONMENT) {
 		$db['database_kampus1'] = array(
 			'dsn'	=> '',
 			'hostname' => '127.0.0.1',
-			'username' => 'localhost',
-			'password' => '',
+			'username' => 'ppaskaid_kampus1aska',
+			'password' => 'kampus1aska*',
 			'database' => 'ppaskaid_askakampus1',
 			'dbdriver' => 'mysqli',
 			'dbprefix' => '',
@@ -355,8 +356,8 @@ switch (ENVIRONMENT) {
 		$db['database_kampus2'] = array(
 			'dsn'	=> '',
 			'hostname' => '127.0.0.1',
-			'username' => 'localhost',
-			'password' => '',
+			'username' => 'ppaskaid_kampus2aska',
+			'password' => 'kampus2aska*',
 			'database' => 'ppaskaid_askakampus2',
 			'dbdriver' => 'mysqli',
 			'dbprefix' => '',
@@ -378,8 +379,8 @@ switch (ENVIRONMENT) {
 		$db['database_kampus3'] = array(
 			'dsn'	=> '',
 			'hostname' => '127.0.0.1',
-			'username' => 'localhost',
-			'password' => '',
+			'username' => 'ppaskaid_kampus3aska',
+			'password' => 'kampus3aska*',
 			'database' => 'ppaskaid_askakampus33',
 			'dbdriver' => 'mysqli',
 			'dbprefix' => '',
@@ -401,8 +402,8 @@ switch (ENVIRONMENT) {
 		$db['database_kampus4'] = array(
 			'dsn'	=> '',
 			'hostname' => '127.0.0.1',
-			'username' => 'localhost',
-			'password' => '',
+			'username' => 'ppaskaid_kampus4aska',
+			'password' => 'kampus4aska*',
 			'database' => 'ppaskaid_askakampus4',
 			'dbdriver' => 'mysqli',
 			'dbprefix' => '',
